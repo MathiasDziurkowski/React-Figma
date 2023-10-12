@@ -8,7 +8,11 @@ function Banner(){
                 <p className=" text-lg font-medium font-poppins">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.</p>
                 <button className="p-6 mt-11 font-bold font-poppins text-white pr-20 pl-20 align-middle bg-marromTexto">BUY NOW</button>
             </div>    
-        </section>  
+        </section> 
+         <section className="mt-12 text-center">
+                <h1 className="text-3xl font-poppins font-bold">Browse the Range</h1>
+                <p className="font-poppins text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+         </section>
         </>
     )
 }

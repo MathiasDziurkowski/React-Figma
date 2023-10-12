@@ -11,7 +11,8 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'banner': "url('./public/images/banner.png')"
+        'banner': "url('./public/images/banner.png')",
+        'card' : "url('./images/dining.png')",
       } 
     },
     height: {
@@ -28,7 +29,7 @@ export default {
     },
     colors: {
       'marromTexto': "#B88E2F",
-    }
+    },
   },
   plugins: [],
 }
