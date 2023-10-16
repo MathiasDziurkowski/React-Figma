@@ -5,7 +5,8 @@ import CardProdutos from './components/cardProdutos'
 import MainProdutos from './components/mainProdutos'
 import Products from './components/products'
 import Carousel from './components/carousel'
-
+import PreFooter from './components/preFooter'
+import Footer from './components/footer'
 
 function App() {
 
@@ -18,6 +19,9 @@ function App() {
       <MainProdutos></MainProdutos>
       <MainProdutos></MainProdutos>
       <Carousel></Carousel>
+      <PreFooter></PreFooter>
+      <Footer></Footer>
+      
     
     </>
   )
