@@ -18,6 +18,7 @@ export default {
     height: {
       '720' : '720px',
       'card': '443px',
+      'carousel': '670px',
     },
     width:{
       'card': '643px',
@@ -26,6 +27,7 @@ export default {
     backgroundColor: {
       'marromCard': "#FFF3E3",
       'marromTexto': "#B88E2F",
+      'marromCarousel': "#FCF8F3",
     },
     colors: {
       'marromTexto': "#B88E2F",

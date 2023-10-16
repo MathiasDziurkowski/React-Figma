@@ -4,6 +4,7 @@ import Header from './components/header'
 import CardProdutos from './components/cardProdutos'
 import MainProdutos from './components/mainProdutos'
 import Products from './components/products'
+import Carousel from './components/carousel'
 
 
 function App() {
@@ -16,6 +17,8 @@ function App() {
       <Products></Products>
       <MainProdutos></MainProdutos>
       <MainProdutos></MainProdutos>
+      <Carousel></Carousel>
+    
     </>
   )
 }
