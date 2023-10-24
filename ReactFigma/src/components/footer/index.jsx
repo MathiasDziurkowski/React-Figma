@@ -3,7 +3,7 @@ function Footer() {
     <section className="flex justify-around">
         <div className="flex flex-col p-6 gap-20">
             <h1 className="font-poppins font-bold text-2xl">Furniro.</h1>
-            <p className="w-16" style={{color:"#9F9F9F"}}>400 University Drive Suite 200 Coral<br />Gables,<br />
+            <p className="w-72" style={{color:"#9F9F9F"}}>400 University Drive Suite 200 Coral Gables, 
                 FL 33134 USA</p>
         </div>
         <div className="flex flex-col p-6 gap-20">
