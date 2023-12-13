@@ -11,7 +11,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'banner': "url('./public/images/banner.png')",
+        'banner': "url('./images/banner.png')",
         'card' : "url('./images/dining.png')",
         'carousel': "url('./images/carousel-1.png')",
       },
